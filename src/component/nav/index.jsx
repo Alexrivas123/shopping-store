@@ -1,8 +1,8 @@
-import { CategoriesItems } from "./categoriesItems";
-import { PagesItems } from "./pagesitems";
 import { useContext } from "react";
 import { ShopingCardContext } from "../../context";
 import { MagnifyingGlassIcon, ShoppingBagIcon } from '@heroicons/react/24/solid'
+import { CategoriesItems } from "./categoriesItems";
+import { PagesItems } from "./pagesitems";
 
 
 const Navbar=()=>{

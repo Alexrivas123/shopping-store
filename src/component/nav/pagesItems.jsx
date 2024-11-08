@@ -2,9 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const PagesItems = ()=>{
    const listPages = [
-    // {to:'/', name: 'Alexrivas24@gmail.com'},
-    // {to:'/my-accuont',name:'My Accuont'},
-    
+    {to:'/', name: 'Alexrivas24@gmail.com'},
     {to:'/my-orders', name:'My Orders'},
     {to:'/singnIn', name:'Singn In'},
    ]
